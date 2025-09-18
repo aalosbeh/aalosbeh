@@ -1,4 +1,4 @@
-# alosbeh.github.io
+# aalosbeh.github.io
 
 Source for my academic website, hosted with **GitHub Pages**.
 
