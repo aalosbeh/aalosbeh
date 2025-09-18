@@ -20,7 +20,7 @@ This site uses the GitHub Pages–supported Jekyll theme **minima**. You can edi
 ## Publishing
 1. Push to the `main` branch of this repo.
 2. In **Settings → Pages**, ensure **Build and deployment** is set to **Deploy from branch** and **Branch: main / root**.
-3. Your site will be available at **https://alosbeh.github.io** (first build can take ~1–2 minutes).
+3. Your site will be available at **https://aalosbeh.github.io** (first build can take ~1–2 minutes).
 
 ---
 
